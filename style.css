@@ -19,7 +19,6 @@
 
 .header-list ul {
   float: right;
-  margin-top:0;
   font-size: 15px;
 }
 
@@ -262,11 +261,11 @@ footer {
   }
 
   .menu-icon {
-    display:block
+    display:block;
   }
 
   .header-list {
-    display:none
+    display:none;
   }
 
   .content {
